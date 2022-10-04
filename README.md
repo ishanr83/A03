@@ -7,7 +7,6 @@ Now, Git and GitHub should be fully integrated to your machine and Webstorm.
 How Git and GitHub works: 
 There are repositories you can create or import in GitHub. These repositories can be spit up or composed of branches, the main branch is the one where all the commits are pulled into upon completion.
 In order to avoid conflicts and have two editors for one repository, you can clone a remote repository and commit your individual changes as you progress. Then, when you want to send your local commits to the main branch, you push.  
-Reversely, you can pull changes from the remote repository to update your local repository with the pull feature. Merges take change from one branch into another, merge conflicts occur when there is an issue in combining the two branches. 
 
 
 
@@ -50,3 +49,7 @@ a common repository that all team members use to exchange their changes.
 
 **Repository:**
 A collection of commits, and branches and tags to identify commits
+
+References:
+https://quizlet.com/118193301/git-terminology-flash-cards/
+https://quizlet.com/45748912/git-flash-cards/
